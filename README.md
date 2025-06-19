@@ -1,5 +1,7 @@
 Hi, I'm Yuri Basso! 
+
 Data Science Student | Marketing Intern at @Bayer
+
 About Me
 I'm currently deepening my knowledge as a Data Science student at UNINTER and applying my skills as a Market Analyst Intern at Bayer, where I help the commercial team make data-driven strategic decisions.
 
